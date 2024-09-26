@@ -1,0 +1,6 @@
+.vs/
+App.config
+Properties/
+chernikovgit.csproj
+chernikovgit.sln
+obj/
